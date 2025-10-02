@@ -1,7 +1,8 @@
 # Mini-LLM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KSeQbTLw7rKPTSIyHQVQA063aWUr4v08?usp=sharing)
 
-<img width="628" height="458" alt="image" src="https://github.com/user-attachments/assets/2871f2dc-8da9-4ac2-8821-298df34d1bdd" />
+<img width="628" height="458" alt="image" src="https://github.com/user-attachments/assets/8b03fbf6-e79a-4876-8b3c-638076bc1db1" />
+
 
 Bu proje, hafif bir Büyük Dil Modeli (LLM) için geliştirilmiş bir Gradio tabanlı web arayüzüdür. Amacı, sıfırdan oluşturulan Transformer tabanlı dil modellerini kolayca yüklemek, test etmek ve çeşitli çıkarım parametreleri (Temperature, Top-P, vb.) ile etkileşimli olarak denemektir.
 
